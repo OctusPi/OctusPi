@@ -57,6 +57,6 @@ _If you're interested in collaborating on exciting projects or discussing techno
 “Mesmo a menor pessoa pode mudar o curso do futuro.”
 “Even the smallest person can change the course of the future.”
 
-- GitHub: (https://github.com/OctusPi)
+- GitHub: https://github.com/OctusPi
 - Email: dev@octuspi.com.br
 
