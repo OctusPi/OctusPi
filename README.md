@@ -33,7 +33,7 @@ _My passion for development has led me to work with a wide range of languages an
 Uma plataforma de Gestão e Planejamento de Contrações de Materiais e Serviços para Orgãos, Autarquias e Entidades Pública.
 Incluindo módulos de Gestão, Comissões, Catálogo de Itens, Espelho de Anos Anteriores, Registro de Demandas, Consolidação de Demandas, Elaboração de Documentação Automatizada Oficial para PAC e Emissão de Relatórios.
 
-_A Management and Planning platform for the Procurement of Materials and Services in Public Organizations, Authorities, and Entities. Includes modules for Management, Committees, Item Catalog, Historical Data, Demand Registration, Demand Consolidation, Automated Official Documentation for Procurement, and Report Generation._
+_A Management and Planning platform for the Procurement of Materials and Services in Public Organizations, Authorities, and Entities. Includes modules for Management, Committees, Item Catalog, Historical Data, Demand Registration, Demand Consolidation, Automated Official Documentation for PAC, and Report Generation._
 
 <img src="https://octuspi.com.br/gitprofile/project-01.png" alt="Imagem de Projeto 01" width="400" />
 
