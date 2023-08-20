@@ -23,7 +23,7 @@ _Enthusiast of Web and Mobile development, passionate about turning creative ide
 ## Projetos Destacados _Featured Projects_
 
 ### Projeto 1: Plataforma de Gestão e Planejamento Setor Público
-Uma plataforma de Gestão e Planejamento de Contrações de Materiais e Serviços para Orgãos, Autarquias e Entidades Pública.
+Uma plataforma de Gestão e Planejamento de Contratações de Materiais e Serviços para Orgãos, Autarquias e Entidades Pública.
 Incluindo módulos de Gestão, Comissões, Catálogo de Itens, Espelho de Anos Anteriores, Registro de Demandas, Consolidação de Demandas, Elaboração de Documentação Automatizada Oficial para PAC e Emissão de Relatórios.
 
 ### _Project 1: Public Sector Management and Planning Platform_
