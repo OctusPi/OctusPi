@@ -1,4 +1,4 @@
-
+<!-- [![OctusPi GitHub stats](https://github-readme-stats.vercel.app/api?username=OctusPi)](https://github.com/OctusPi/github-readme-stats) -->
 
 Enthusiast of Web and Mobile development, passionate about turning creative ideas into solid technological solutions. My journey in the programming world began a few years ago, and since then, I've been exploring and honing my skills in various technologies. My passion for development has led me to work with a wide range of languages and tools, from building robust backend applications to creating engaging and responsive frontend interfaces. I believe in the importance of writing clean, modular, and maintainable code to build high-quality products.
 
