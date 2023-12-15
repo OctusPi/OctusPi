@@ -7,7 +7,7 @@ Enthusiast of Web and Mobile development, passionate about turning creative idea
 
 ## Technologies and Skills
 - 💻 Web Development with **PHP** and **Laravel**
-- 🌐 Building interactive interfaces with **Javascript** and **React**
+- 🌐 Building interactive interfaces with **Javascript** and **Vue**
 - ☕ Mobile Development with **Java** for Android
 - 🛢️ Experience in **MySQL**, **PostgreSQL**, and **Redis** databases
 
