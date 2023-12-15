@@ -1,6 +1,4 @@
-<p align="center">
-<img src="https://octuspi.com.br/gitprofile/CODE.png" alt="Imagem de Perfil" width="200" />
-</p>
+
 
 Enthusiast of Web and Mobile development, passionate about turning creative ideas into solid technological solutions. My journey in the programming world began a few years ago, and since then, I've been exploring and honing my skills in various technologies. My passion for development has led me to work with a wide range of languages and tools, from building robust backend applications to creating engaging and responsive frontend interfaces. I believe in the importance of writing clean, modular, and maintainable code to build high-quality products.
 
