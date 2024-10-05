@@ -17,6 +17,6 @@ If you're interested in collaborating on exciting projects or discussing technol
 “Even the smallest person can change the course of the future.”
 
 - GitHub: https://github.com/OctusPi
-- Email: developer@octuspi.com.br
+- Email: octuspi@gmail.com
 - Portfólio: https://portfolio-octuspi.vercel.app/
 
